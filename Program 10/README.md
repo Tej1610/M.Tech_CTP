@@ -1,5 +1,7 @@
 # Program 10 — Python Project Tooling: mypy, Docker and GitHub Actions
 
+
+
 ## 1. Problem Statement
 Configure mypy, Docker and GitHub Actions CI/CD for an existing Python project.
 
