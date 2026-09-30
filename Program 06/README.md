@@ -1,7 +1,7 @@
 # Program 6 — Dataclass vs Traditional Class
 
 ## 1. Problem Statement
-
+ 
 Implement a Student/Employee data model using dataclasses and compare it with a traditional class implementation.
 
 The objective is to build a clear Python implementation that demonstrates the required concept and produces a verifiable result.
