@@ -1,7 +1,7 @@
 # Program 7 — Producer-Consumer — Threading and Multiprocessing
 
 ## 1. Problem Statement
-
+ 
 Develop a Producer-Consumer application using threading, multiprocessing and synchronization primitives.
 
 The objective is to build a clear Python implementation that demonstrates the required concept and produces a verifiable result.
