@@ -1,7 +1,7 @@
 # Program 4 — List vs Generator Processing
 
 ## 1. Problem Statement
-
+ 
 Compare list-based processing and generator-based processing for a large dataset in execution time and memory usage.
 
 The objective is to build a clear Python implementation that demonstrates the required concept and produces a verifiable result.
