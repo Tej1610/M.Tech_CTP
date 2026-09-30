@@ -1,5 +1,6 @@
 # Program 11 — Specification-First Development with AI Assistance
 
+
 ## 1. Problem Statement
 Develop a Python application using GitHub Copilot, Cursor or Claude Code with specification-first development and document how AI assistance is used.
 
